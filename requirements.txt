@@ -1,0 +1,8 @@
+opencv-python
+numpy
+mediapipe
+tqdm
+pandas
+sqlalchemy 
+psycopg2-binary
+scikit-learn
